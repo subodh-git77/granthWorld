@@ -8,6 +8,11 @@ A modern and fully responsive **Book Store Website** built using **HTML**, **CSS
 It includes interactive modals, sliders, animations, and theme toggling — delivering a sleek e-commerce experience.
 
 
+## 🌐 Live Demo
+👉 https://granth-x-world.netlify.app
+
+
+
 ## 🧭 Table of Contents
 
 - [✨ Features](#-features)
